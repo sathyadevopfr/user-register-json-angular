@@ -1,0 +1,96 @@
+{
+  "stateList": ["AndhRA","Karnataka","kerala","TamilNadu"],
+    "users":[
+        {
+          "userId": 57,
+          "userName": "SATHYYA",
+          "fName": "Sathya",
+          "lName": "s",
+          "city": "Bhimavaram",
+          "state": "Andhra",
+          "zipcode":"027252"
+        },
+            {
+              "userId": 17,
+              "userName": "ABD",
+              "fName": "Devillers",
+              "lName": "AB",
+              "city": "Kochin",
+              "state": "Kerala",
+              "zipcode": "266390"
+            },
+            {
+              "userId": 7,
+              "userName": "MSD",
+              "fName": "Mahendra",
+              "lName": "Dhoni",
+              "city": "Chennai",
+              "state": "TamilNadu",
+              "zipcode": "9383673"
+            },
+            {
+              "userId": 18,
+              "userName": "Virat",
+              "fName": "Vira",
+              "lName": "kohli",
+              "city": "Bengaluru",
+              "state": "Karnataka",
+              "zipcode": "938737"
+            }
+    ],
+    
+      "createUser":{
+       
+       "data":{
+         "userId": 18,
+         "userName": "Virat",
+         "fName": "Vira",
+         "lName": "kohli",
+         "city": "",
+         "state": "",
+         "zipcode": "826382"
+       }
+      },
+      "updateUser":{
+     
+       "data":{
+         "userId": 18,
+         "userName": "Virat",
+         "fName": "Vira",
+         "lName": "kohli",
+         "city": "",
+         "state": "",
+         "zipcode": "373883"
+       }
+    },
+    "deleteUser":{
+     
+      "data": {
+        "userId": 18,
+        "userName": "Virat",
+        "fName": "Vira",
+        "lName": "kohli",
+        "city": "",
+        "state": "",
+        "zipcode": "633802"
+      }
+    },
+    "empList":[{
+        "empId":23,
+        "empName":"Veeru",
+        "empDept":"development"
+    },{
+      "empId": 78,
+      "empName": "Hari",
+      "empDept": "Testing"
+    },
+  
+  {
+    "empId": 12,
+    "empName": "Mahesh",
+    "empDept": "Support"
+  }
+  
+],
+"cityList":["Rajahmundry","Palakollu","Bhimavaram"]
+}
